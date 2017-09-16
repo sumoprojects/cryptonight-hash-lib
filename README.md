@@ -1,0 +1,1 @@
+# cryptonight-hash-lib
